@@ -29,4 +29,4 @@ jobs:
         pip install flake8 pytest numpy scikit-learn pandas matplotlib
     - name: Run with python script 
       run: |
-        python mugdha.py 
+        python cloud.py 
